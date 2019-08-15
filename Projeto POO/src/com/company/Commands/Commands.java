@@ -26,7 +26,7 @@ public class Commands {
     public void listar(ArrayList<Funcionario> funcionarios){
         for (int f = 0; f < funcionarios.size(); f++)
         {
-            System.out.printf("%d ................. %s\n", f, funcionarios.get(f).getName());
+            System.out.printf("%d ................. %s\n", funcionarios.get(f).getId(), funcionarios.get(f).getName());
         }
         return;
     }
