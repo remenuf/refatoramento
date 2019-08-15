@@ -1,4 +1,4 @@
-# refatoramento
+# Refatoramento
 
 Projeto escrito, compilado e testado  no ItelliJ com JDK 12.0.1
 Os códigos se encontram em: Projeto POO\src\com\company
